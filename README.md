@@ -8,7 +8,7 @@
 ## 📫 Contact
 
 <a href="mailto:cindy0585@naver.com">
-  <img src="https://img.shields.io/badge/Email-Me-D14836?style=plastic&logo=gmail&logoColor=white" alt="email badge"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email badge"/>
 </a>
 <a href="https://www.linkedin.com/in/so-yeong-park-462359220/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="linkedin badge"/>
