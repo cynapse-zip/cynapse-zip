@@ -3,18 +3,18 @@
 - 👀 I’m passionate about building meaningful software through thoughtful communication, system thinking, and user-centered design.
 - 💞️ I’m looking to collaborate on projects that combine data insights, empathy, and cross-functional teamwork.
 
----
+
 
 ## 📫 Contact
 
 <a href="mailto:cindy0585@naver.com">
-  <img src="https://img.shields.io/badge/email-cindy0585@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge"/>
+  <img src="https://img.shields.io/badge/Email-Me-D14836?style=plastic&logo=gmail&logoColor=white" alt="email badge"/>
 </a>
 <a href="https://www.linkedin.com/in/so-yeong-park-462359220/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-SoYeongPark-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="linkedin badge"/>
 </a>
 
----
+
 
 ## 🚀 Tech Stack
 
