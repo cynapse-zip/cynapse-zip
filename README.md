@@ -4,10 +4,9 @@
 - 👀 Passionate about building meaningful software through **communication**, **system thinking**, and **user-centered design**  
 - 💞️ Looking to collaborate on projects driven by **data insights** and **cross-functional teamwork**
 
-> 🌱 현재 **SSAFY 13기**에서 배우고 있어요.  
-> 👀 **소통**과 **사용자 중심 설계**로 의미 있는 소프트웨어를 만드는 데 관심이 있습니다.  
-> 💞️ **데이터 인사이트**와 **팀워크**를 바탕으로 함께 성장할 수 있는 프로젝트에 참여하고 싶습니다.  
----
+>  현재 **SSAFY 13기**에서 배우고 있어요.  
+>  **소통**과 **사용자 중심 설계**로 의미 있는 소프트웨어를 만드는 데 관심이 있습니다.  
+>  **데이터 인사이트**와 **팀워크**를 바탕으로 함께 성장할 수 있는 프로젝트에 참여하고 싶습니다.  
 
 
 ## 📫 Contact
